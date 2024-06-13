@@ -1,0 +1,24 @@
+class Student
+//for each or enhance for loop using integers
+{
+	int rollno;
+	String name;
+	int marks;
+}
+
+public class DemoStudent
+{
+	public static void main(String a[])
+	{
+		 int num [] = new init[4];
+		 num[0]=4;
+		 num[1]=5;
+		 num[2]=0;
+		 num[3]=2;
+		
+		for (int n : nums)
+		{
+		System.out.println(n);
+		}
+	}
+}	
